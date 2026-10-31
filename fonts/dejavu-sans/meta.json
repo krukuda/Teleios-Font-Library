@@ -1,0 +1,14 @@
+{
+  "family": "DejaVu Sans",
+  "label": "DejaVu Sans",
+  "langs": ["لاتین", "فارسی (ناقص: ۀ)"],
+  "license": "Bitstream Vera License (تغییرات DejaVu: عمومی)",
+  "license_file": "fonts/dejavu-sans/LICENSE.txt",
+  "version": "2.37",
+  "source": "https://dejavu-fonts.github.io/",
+  "weights": {
+    "200": {"file": "DejaVuSans-ExtraLight.ttf"},
+    "400": {"file": "DejaVuSans.ttf"},
+    "700": {"file": "DejaVuSans-Bold.ttf", "bold": true}
+  }
+}
