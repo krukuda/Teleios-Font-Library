@@ -1,0 +1,15 @@
+{
+  "family": "Digi Madasi Bold",
+  "label": "Digi Madasi Bold",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "7f8cc029a01b.ttf",
+      "bold": true
+    }
+  }
+}
