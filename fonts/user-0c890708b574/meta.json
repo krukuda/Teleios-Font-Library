@@ -1,0 +1,15 @@
+{
+  "family": "Digi Sozan Bold",
+  "label": "Digi Sozan Bold",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "0c890708b574.ttf",
+      "bold": true
+    }
+  }
+}
