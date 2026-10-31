@@ -1,0 +1,15 @@
+{
+  "family": "B hejaz",
+  "label": "B hejaz",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "0cee430d4ebb.ttf",
+      "bold": false
+    }
+  }
+}
