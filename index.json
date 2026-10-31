@@ -1,0 +1,108 @@
+{
+  "v": 1,
+  "fonts": [
+    {
+      "family": "DejaVu Sans",
+      "label": "DejaVu Sans",
+      "langs": [
+        "لاتین",
+        "فارسی (ناقص: ۀ)"
+      ],
+      "license": "Bitstream Vera License (تغییرات DejaVu: عمومی)",
+      "license_path": "fonts/dejavu-sans/LICENSE.txt",
+      "license_sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "version": "2.37",
+      "source": "https://dejavu-fonts.github.io/",
+      "weights": {
+        "200": {
+          "path": "fonts/dejavu-sans/DejaVuSans-ExtraLight.ttf",
+          "sha256": "fab10cd1c5680872c4d8db8059af93e3ff2b5e2ebc6120574d3c0d414334e979",
+          "libass": "DejaVu Sans Light",
+          "bold": false
+        },
+        "400": {
+          "path": "fonts/dejavu-sans/DejaVuSans.ttf",
+          "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
+          "libass": "DejaVu Sans",
+          "bold": false
+        },
+        "700": {
+          "path": "fonts/dejavu-sans/DejaVuSans-Bold.ttf",
+          "sha256": "5c1247acef7f2b8522a31742c76d6adcb5569bacc0be7ceaa4dc39dd252ce895",
+          "libass": "DejaVu Sans",
+          "bold": true
+        }
+      }
+    },
+    {
+      "family": "Vazirmatn",
+      "label": "Vazirmatn (وزیرمتن)",
+      "langs": [
+        "فارسی",
+        "عربی",
+        "لاتین"
+      ],
+      "license": "SIL Open Font License 1.1",
+      "license_path": "fonts/vazirmatn/LICENSE.txt",
+      "license_sha256": "17e355067c8284f47743a1ee3b1ef7ff684ff0601eda357f9353b10b3016ab31",
+      "version": "v33.003",
+      "source": "https://github.com/rastikerdar/vazirmatn/tree/v33.003",
+      "weights": {
+        "100": {
+          "path": "fonts/vazirmatn/Vazirmatn-Thin.ttf",
+          "sha256": "8bab0e05692e16bf6aef1a2fed32a45695f4a4f44bebcfed873b6ab1c9d32d2c",
+          "libass": "Vazirmatn Thin",
+          "bold": false
+        },
+        "200": {
+          "path": "fonts/vazirmatn/Vazirmatn-ExtraLight.ttf",
+          "sha256": "2b04d18ff3960a3ffd04ef0e5ab8ad8d1efb935280de9277b008d0d66462489f",
+          "libass": "Vazirmatn ExtraLight",
+          "bold": false
+        },
+        "300": {
+          "path": "fonts/vazirmatn/Vazirmatn-Light.ttf",
+          "sha256": "9ab4f094b861b7d4e318f01953b9771ddeb189d7c79bbb3989d5a95a4b07ff60",
+          "libass": "Vazirmatn Light",
+          "bold": false
+        },
+        "400": {
+          "path": "fonts/vazirmatn/Vazirmatn-Regular.ttf",
+          "sha256": "b69fd4c680b8f3f225feabcc655a2c585d97627b8f5f5c0f9985e894069f3a56",
+          "libass": "Vazirmatn",
+          "bold": false
+        },
+        "500": {
+          "path": "fonts/vazirmatn/Vazirmatn-Medium.ttf",
+          "sha256": "b986623e4ddef10755e04be39f8ea7bcb1dc08bfe8dd0aa6af395736f256ad4a",
+          "libass": "Vazirmatn Medium",
+          "bold": false
+        },
+        "600": {
+          "path": "fonts/vazirmatn/Vazirmatn-SemiBold.ttf",
+          "sha256": "3f239d8364c14ee32c46b6839fa197c28958358b82a9673d2c6acc8506d78bc5",
+          "libass": "Vazirmatn SemiBold",
+          "bold": false
+        },
+        "700": {
+          "path": "fonts/vazirmatn/Vazirmatn-Bold.ttf",
+          "sha256": "f635fdbea28f265de395ba83b4b1570dcf2f58d13c65469e61903b1c2d2ae723",
+          "libass": "Vazirmatn",
+          "bold": true
+        },
+        "800": {
+          "path": "fonts/vazirmatn/Vazirmatn-ExtraBold.ttf",
+          "sha256": "5181c2e436cf1d5cf1c5631821b43d81881dca040a12c9a442ef5dc0007001cf",
+          "libass": "Vazirmatn ExtraBold",
+          "bold": false
+        },
+        "900": {
+          "path": "fonts/vazirmatn/Vazirmatn-Black.ttf",
+          "sha256": "df4e257be9de1574d11ba2970c69228a7db24174913ff7f776bbf00a9aa5dc1b",
+          "libass": "Vazirmatn Black",
+          "bold": false
+        }
+      }
+    }
+  ]
+}
