@@ -1,0 +1,15 @@
+{
+  "family": "Digi Almas Bold",
+  "label": "Digi Almas Bold",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "800": {
+      "file": "e213b22245b7.ttf",
+      "bold": true
+    }
+  }
+}
