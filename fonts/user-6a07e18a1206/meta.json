@@ -1,0 +1,15 @@
+{
+  "family": "Morabba Heavy",
+  "label": "Morabba Heavy",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "900": {
+      "file": "6a07e18a1206.ttf",
+      "bold": true
+    }
+  }
+}
