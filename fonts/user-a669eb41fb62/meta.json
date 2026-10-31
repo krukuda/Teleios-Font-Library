@@ -1,0 +1,15 @@
+{
+  "family": "Digi Gaf Bold",
+  "label": "Digi Gaf Bold",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "a669eb41fb62.ttf",
+      "bold": true
+    }
+  }
+}
