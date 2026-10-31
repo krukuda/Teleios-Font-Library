@@ -1,0 +1,15 @@
+{
+  "family": "Puritan Swash",
+  "label": "Puritan Swash",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "b6b814abc6f4.ttf",
+      "bold": true
+    }
+  }
+}
