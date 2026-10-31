@@ -1,0 +1,20 @@
+{
+  "family": "Vazirmatn",
+  "label": "Vazirmatn (وزیرمتن)",
+  "langs": ["فارسی", "عربی", "لاتین"],
+  "license": "SIL Open Font License 1.1",
+  "license_file": "fonts/vazirmatn/LICENSE.txt",
+  "version": "v33.003",
+  "source": "https://github.com/rastikerdar/vazirmatn/tree/v33.003",
+  "weights": {
+    "100": {"file": "Vazirmatn-Thin.ttf"},
+    "200": {"file": "Vazirmatn-ExtraLight.ttf"},
+    "300": {"file": "Vazirmatn-Light.ttf"},
+    "400": {"file": "Vazirmatn-Regular.ttf"},
+    "500": {"file": "Vazirmatn-Medium.ttf"},
+    "600": {"file": "Vazirmatn-SemiBold.ttf"},
+    "700": {"file": "Vazirmatn-Bold.ttf", "bold": true},
+    "800": {"file": "Vazirmatn-ExtraBold.ttf"},
+    "900": {"file": "Vazirmatn-Black.ttf"}
+  }
+}
