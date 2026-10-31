@@ -1,0 +1,15 @@
+{
+  "family": "Digi Nozha2 Bold",
+  "label": "Digi Nozha2 Bold",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "bd1b93cd8dcd.ttf",
+      "bold": true
+    }
+  }
+}
