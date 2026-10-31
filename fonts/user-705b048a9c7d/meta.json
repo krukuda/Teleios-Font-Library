@@ -1,0 +1,15 @@
+{
+  "family": "Samim FD",
+  "label": "Samim FD",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "705b048a9c7d.ttf",
+      "bold": true
+    }
+  }
+}
