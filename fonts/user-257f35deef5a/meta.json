@@ -1,0 +1,15 @@
+{
+  "family": "Reggae One",
+  "label": "Reggae One",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "257f35deef5a.ttf",
+      "bold": false
+    }
+  }
+}
