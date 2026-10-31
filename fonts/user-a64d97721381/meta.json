@@ -1,0 +1,15 @@
+{
+  "family": "Morabba Black",
+  "label": "Morabba Black",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "900": {
+      "file": "a64d97721381.ttf",
+      "bold": true
+    }
+  }
+}
