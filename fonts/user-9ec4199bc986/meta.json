@@ -1,0 +1,15 @@
+{
+  "family": "Morabba SemiBold",
+  "label": "Morabba SemiBold",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "600": {
+      "file": "9ec4199bc986.ttf",
+      "bold": false
+    }
+  }
+}
