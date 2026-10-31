@@ -1,0 +1,15 @@
+{
+  "family": "Digi Anil Bold",
+  "label": "Digi Anil Bold",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "e7017f3c4702.ttf",
+      "bold": true
+    }
+  }
+}
