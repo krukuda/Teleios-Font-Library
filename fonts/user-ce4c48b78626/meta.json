@@ -1,0 +1,15 @@
+{
+  "family": "Dumbledor 3 Thin",
+  "label": "Dumbledor 3 Thin",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "ce4c48b78626.ttf",
+      "bold": false
+    }
+  }
+}
