@@ -1,0 +1,15 @@
+{
+  "family": "Digi  Derakhshandeh",
+  "label": "Digi  Derakhshandeh",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "f1bb6ae501c9.ttf",
+      "bold": true
+    }
+  }
+}
