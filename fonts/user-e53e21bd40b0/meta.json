@@ -1,0 +1,15 @@
+{
+  "family": "Morabba Medium",
+  "label": "Morabba Medium",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "500": {
+      "file": "e53e21bd40b0.ttf",
+      "bold": false
+    }
+  }
+}
