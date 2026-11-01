@@ -35,6 +35,24 @@
       }
     },
     {
+      "family": "Digi Hilan",
+      "label": "Digi Hilan",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "700": {
+          "path": "fonts/user-0a625c8a1769/0a625c8a1769.ttf",
+          "sha256": "0a625c8a17698001d9b54a811947a97f8fd1d67f019ad261f0375fd11b5734d6",
+          "libass": "Digi Hilan",
+          "bold": true
+        }
+      }
+    },
+    {
       "family": "Digi Sozan Bold",
       "label": "Digi Sozan Bold",
       "langs": [],
@@ -71,6 +89,78 @@
       }
     },
     {
+      "family": "Mikadan",
+      "label": "Mikadan",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-100de724890c/100de724890c.ttf",
+          "sha256": "100de724890c621e863e0e30f7e750ad4226da6e4070d39dd020ef457164babb",
+          "libass": "Mikadan",
+          "bold": false
+        }
+      }
+    },
+    {
+      "family": "Potk Black",
+      "label": "Potk Black",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "900": {
+          "path": "fonts/user-18315608cd3b/18315608cd3b.ttf",
+          "sha256": "18315608cd3bfb19affc3449f46c6f650a766fc8bb78596b5c250dc7507f33fc",
+          "libass": "Potk Black",
+          "bold": true
+        }
+      }
+    },
+    {
+      "family": "Hacen Eltaroute",
+      "label": "Hacen Eltaroute",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-21da60df9a74/21da60df9a74.ttf",
+          "sha256": "21da60df9a743a707fd4048c5e2be70bba9836d0b4fbebb72fedddb8635fd7b5",
+          "libass": "Hacen Eltaroute",
+          "bold": false
+        }
+      }
+    },
+    {
+      "family": "B Davat",
+      "label": "B Davat",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-23a653017d32/23a653017d32.ttf",
+          "sha256": "23a653017d323a39b8f4d81fc32285d3543f735a27a78d4ccc7c0a6f993e2c9c",
+          "libass": "B Davat",
+          "bold": false
+        }
+      }
+    },
+    {
       "family": "Reggae One",
       "label": "Reggae One",
       "langs": [],
@@ -89,6 +179,114 @@
       }
     },
     {
+      "family": "Lalezar",
+      "label": "Lalezar",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-269b87bfeb20/269b87bfeb20.ttf",
+          "sha256": "269b87bfeb20900e30aacd5a31ce410934d2412343f51b3852366c942f5233ce",
+          "libass": "Lalezar",
+          "bold": false
+        }
+      }
+    },
+    {
+      "family": "B Badr",
+      "label": "B Badr",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-2c6cbeef2768/2c6cbeef2768.ttf",
+          "sha256": "2c6cbeef2768f7471987cea503ceb8ff6ed2fc3e2b5da0928e5dc31e80bb282c",
+          "libass": "B Badr",
+          "bold": false
+        }
+      }
+    },
+    {
+      "family": "Morabba ExtraBold",
+      "label": "Morabba ExtraBold",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "800": {
+          "path": "fonts/user-2fbd5183c827/2fbd5183c827.ttf",
+          "sha256": "2fbd5183c8270c0e23d360234d2e3c829bc366a41855ac723abd0de48950549a",
+          "libass": "Morabba ExtraBold",
+          "bold": true
+        }
+      }
+    },
+    {
+      "family": "A Mosalas",
+      "label": "A Mosalas",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "700": {
+          "path": "fonts/user-3538e8eb86e7/3538e8eb86e7.ttf",
+          "sha256": "3538e8eb86e734450b48b5c96b6cf6a9ed42a1a3e44ce8e45ea0668330ee6331",
+          "libass": "A Mosalas",
+          "bold": true
+        }
+      }
+    },
+    {
+      "family": "g aseman",
+      "label": "g aseman",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-361e911173dd/361e911173dd.ttf",
+          "sha256": "361e911173dd8783bda8a627fa2d80b8c4f678c95add1705be2b2a9214da798f",
+          "libass": "g aseman",
+          "bold": false
+        }
+      }
+    },
+    {
+      "family": "Morabba",
+      "label": "Morabba",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "700": {
+          "path": "fonts/user-49998ce03928/49998ce03928.ttf",
+          "sha256": "49998ce03928a1710a966a493129e88e9ee721f757ba3a80aad1826b9a6e467b",
+          "libass": "Morabba",
+          "bold": true
+        }
+      }
+    },
+    {
       "family": "A Kavir",
       "label": "A Kavir",
       "langs": [],
@@ -102,6 +300,24 @@
           "path": "fonts/user-551463d37d7a/551463d37d7a.ttf",
           "sha256": "551463d37d7ae4090bda26690819c75a24e4cbf65c6ca01e43a183151f3497de",
           "libass": "A Kavir",
+          "bold": false
+        }
+      }
+    },
+    {
+      "family": "DASH",
+      "label": "DASH",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-6958205e8104/6958205e8104.ttf",
+          "sha256": "6958205e810423117aede3c4a79cc56cdd290002d61d3823424ede7f2691d614",
+          "libass": "DASH",
           "bold": false
         }
       }
@@ -139,6 +355,24 @@
           "sha256": "705b048a9c7ddd7ceac2d3f844b406257d6b7afa64ba725c8ef795597fac4b73",
           "libass": "Samim FD",
           "bold": true
+        }
+      }
+    },
+    {
+      "family": "Cinema",
+      "label": "Cinema",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "400": {
+          "path": "fonts/user-7c3c85523396/7c3c85523396.ttf",
+          "sha256": "7c3c85523396b8444cb287db7a0062b76c2246d58aac4e8797a1757b7605b4c8",
+          "libass": "Cinema",
+          "bold": false
         }
       }
     },
@@ -228,6 +462,24 @@
           "path": "fonts/user-a669eb41fb62/a669eb41fb62.ttf",
           "sha256": "a669eb41fb6230f4e77894992d381a66e116d941f9f8afefe4283acd2332d03b",
           "libass": "Digi Gaf Bold",
+          "bold": true
+        }
+      }
+    },
+    {
+      "family": "MASKH",
+      "label": "MASKH",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "700": {
+          "path": "fonts/user-b656e804d026/b656e804d026.ttf",
+          "sha256": "b656e804d0268e4c5ff11c5022fb605b3e98bee3ea11dc1938e9bb658d8eab84",
+          "libass": "MASKH",
           "bold": true
         }
       }
@@ -323,6 +575,24 @@
       }
     },
     {
+      "family": "Morabba Medium",
+      "label": "Morabba Medium",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "500": {
+          "path": "fonts/user-e53e21bd40b0/e53e21bd40b0.ttf",
+          "sha256": "e53e21bd40b0fb04bd6711d0351ef9a4ed18dedb0071bab3872a3634bfedcea9",
+          "libass": "Morabba Medium",
+          "bold": false
+        }
+      }
+    },
+    {
       "family": "Digi Anil Bold",
       "label": "Digi Anil Bold",
       "langs": [],
@@ -373,6 +643,24 @@
           "sha256": "f1bb6ae501c9be4ca84a47ea0860b2ccc1055fbe5f2a01dd5304babeb61d095b",
           "libass": "Digi  Derakhshandeh",
           "bold": true
+        }
+      }
+    },
+    {
+      "family": "Roboto Medium",
+      "label": "Roboto Medium",
+      "langs": [],
+      "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+      "license_path": "",
+      "license_sha256": "",
+      "version": "",
+      "source": "user-consent",
+      "weights": {
+        "500": {
+          "path": "fonts/user-fd3c714c2e39/fd3c714c2e39.ttf",
+          "sha256": "fd3c714c2e39b1a5dbff6eb24157adfa3f277fa5293cafbf1a0074ad54b094d4",
+          "libass": "Roboto Medium",
+          "bold": false
         }
       }
     },
