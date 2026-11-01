@@ -1,0 +1,15 @@
+{
+  "family": "Lalezar",
+  "label": "Lalezar",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "269b87bfeb20.ttf",
+      "bold": false
+    }
+  }
+}
