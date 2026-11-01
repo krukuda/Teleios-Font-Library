@@ -1,0 +1,15 @@
+{
+  "family": "Hacen Eltaroute",
+  "label": "Hacen Eltaroute",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "21da60df9a74.ttf",
+      "bold": false
+    }
+  }
+}
