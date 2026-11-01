@@ -1,0 +1,15 @@
+{
+  "family": "Roboto Medium",
+  "label": "Roboto Medium",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "500": {
+      "file": "fd3c714c2e39.ttf",
+      "bold": false
+    }
+  }
+}
