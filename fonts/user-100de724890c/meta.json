@@ -1,0 +1,15 @@
+{
+  "family": "Mikadan",
+  "label": "Mikadan",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "100de724890c.ttf",
+      "bold": false
+    }
+  }
+}
