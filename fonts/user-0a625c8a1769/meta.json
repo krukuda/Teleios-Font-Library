@@ -1,0 +1,15 @@
+{
+  "family": "Digi Hilan",
+  "label": "Digi Hilan",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "0a625c8a1769.ttf",
+      "bold": true
+    }
+  }
+}
