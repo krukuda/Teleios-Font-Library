@@ -1,0 +1,15 @@
+{
+  "family": "B Badr",
+  "label": "B Badr",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "2c6cbeef2768.ttf",
+      "bold": false
+    }
+  }
+}
