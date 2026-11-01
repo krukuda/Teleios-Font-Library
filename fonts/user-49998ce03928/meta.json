@@ -1,0 +1,15 @@
+{
+  "family": "Morabba",
+  "label": "Morabba",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "49998ce03928.ttf",
+      "bold": true
+    }
+  }
+}
