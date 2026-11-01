@@ -1,0 +1,15 @@
+{
+  "family": "A Mosalas",
+  "label": "A Mosalas",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "700": {
+      "file": "3538e8eb86e7.ttf",
+      "bold": true
+    }
+  }
+}
