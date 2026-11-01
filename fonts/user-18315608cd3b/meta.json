@@ -1,0 +1,15 @@
+{
+  "family": "Potk Black",
+  "label": "Potk Black",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "900": {
+      "file": "18315608cd3b.ttf",
+      "bold": true
+    }
+  }
+}
