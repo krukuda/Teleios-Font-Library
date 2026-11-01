@@ -1,0 +1,15 @@
+{
+  "family": "Cinema",
+  "label": "Cinema",
+  "langs": [],
+  "license": "تأیید انتشار توسط کاربر (بدون متن License)",
+  "license_file": null,
+  "version": "",
+  "source": "user-consent",
+  "weights": {
+    "400": {
+      "file": "7c3c85523396.ttf",
+      "bold": false
+    }
+  }
+}
